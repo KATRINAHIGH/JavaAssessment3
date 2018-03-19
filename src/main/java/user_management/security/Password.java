@@ -3,6 +3,8 @@ package user_management.security;
 import com.google.common.hash.HashFunction;
 import com.google.common.hash.Hashing;
 
+import java.util.Base64;
+
 
 public class Password {
     //http://fm4dd.com/security/secure_password_hashing_java.htm
